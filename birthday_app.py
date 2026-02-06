@@ -1,6 +1,5 @@
 
 # Install Streamlit if not already installed
-!pip install streamlit -q
 
 import streamlit as st
 import time
